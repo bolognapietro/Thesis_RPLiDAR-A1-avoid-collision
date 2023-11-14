@@ -1,1 +1,1 @@
-# LiDAR-avoid-collision
+# RPLiDAR-A1-avoid-collision
